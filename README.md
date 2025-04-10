@@ -21,10 +21,10 @@
 ## Demo
 
 ### Input Image:
-![Input Image](example_images/sample.jpg)
+![Input Image](sample.jpg)
 
 ### Generated Palette:
-![Palette Output](output/sample_palette.png)
+![Palette Output](sample_palette.png)
 
 ---
 
