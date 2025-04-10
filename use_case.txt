@@ -1,0 +1,7 @@
+Real Life Use Cases:
+Use Case	                       Benefit
+Makeup / Beauty	                       Suggest lip shades / foundations based on skin tone
+Fashion Designers	               Recommend outfit palettes that suit someone’s complexion
+Profile Theme Matching	               Customize social media profile themes to match your face tone
+AI Avatars / Games	               Generate accurate skin-tone for avatars
+Medical	                               Detect changes in facial skin color over time
